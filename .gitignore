@@ -1,0 +1,11 @@
+# tmux plugins
+/plugins/
+
+# tmux resurrect
+/resurrect/
+
+# temp
+*.log
+*.tmp
+*~
+
